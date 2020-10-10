@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to climbing and Diving
+- ⚡ Fun fact: I love to Climbing 🧗‍♂️ and Diving 🤿
 
 ### Connect with me:
 
