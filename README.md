@@ -9,10 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to Climbing 🧗‍♂️ , Diving 🤿 and reading 📚
 
-### Connect with me:
-
-<img align="left" alt="adamblog.co" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />(https://adamblog.co)
-
 <br />
 
 ### Languages and Tools:
