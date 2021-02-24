@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-<a href="adamblog.co" target="_blank"><img align="left" alt="adamblog.co" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+[<img align="left" alt="adamblog.co" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://img.shields.io/website?label=adamblog.co&style=for-the-badge&url=https%3A%2F%2Fadamblog.co)](https://adamblog.co)
 
 <br />
 
