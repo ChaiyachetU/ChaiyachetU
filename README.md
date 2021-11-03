@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=adamblog.co&style=for-the-badge&url=https%3A%2F%2Fadamblog.co)](https://adamblog.co)
 
-## I'm a Electrical Engineer, Developer, and Blogger!!
+## I'm a Electrical Engineer, Web Developer, and Blogger!!
 
 Here are some ideas to get you started:
 
